@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Brain Tamirat",
+	"description": "This is intro to Node project",
+	"keywords": ["freecodecamp","fcc","projects"],
+	"license": "MIT",
+	"version": "1.0.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Brain Tamirat",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
